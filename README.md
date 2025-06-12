@@ -1,32 +1,48 @@
-#### Code_It_Out
+# 🚀 Code_It_Out
 
-#### :memo:**Inside repository**
-- This repository provides you the simple code solutions of different practice problems of different coding platforms.
-- A code template is also provided for giving head start to you.
-- A number of problems are provided in hackerearth folder and codeforces folder frequently and for more problems you can see my           hackerearth account...:wink:
+## 📝 Repository Overview
+This repository contains clean and simple code solutions to a wide range of practice problems from various coding platforms.
 
+### What's Inside?
+- ✅ **Code Templates** to help you get started quickly.
+- ✅ **Solutions** categorized under folders like `hackerearth` and `codeforces`.
+- ✅ Regularly updated with fresh problems and optimized solutions.
 
+> For even more problems and practice, check out my [HackerEarth](https://www.hackerearth.com/@stylebender) profile! 😉
 
- #### :raised_hands:	 Follow me on
- 
- ####                            **HackerEarth** --> https://www.hackerearth.com/@stylebender
- ####                            **Codeforces** --> https://codeforces.com/profile/korvac
- ####                            **CodeChef** --> https://www.codechef.com/users/stylebender
- ####                            **HackerRank** --> https://www.hackerrank.com/Saurabhsahab?hr_r=1
+---
 
+## 🙌 Follow Me On
 
-#### :alien: **Words of advice**
-- Plagiarism must be strictly avoided, breaking copyrights is a punishable offence.:mask:
-- The codes provided in this repositery are only for reference and for better understanding any corresponding concept or logic.
-- Submitting work that isn’t your own always results permanent failure of understanding concept.:imp:
+| Platform      | Profile Link                                                                 |
+|---------------|-------------------------------------------------------------------------------|
+| **HackerEarth** | [@stylebender](https://www.hackerearth.com/@stylebender)                   |
+| **Codeforces**  | [korvac](https://codeforces.com/profile/noozy)                            |
+| **CodeChef**    | [stylebender](https://www.codechef.com/users/stylebender)                  |
+| **HackerRank**  | [Saurabhsahab](https://www.hackerrank.com/Saurabhsahab?hr_r=1)             |
 
+---
 
+## 🧠 Words of Advice
 
-#### :zap:**Programming Language**
-- C++17
+- ❌ **Avoid Plagiarism** – Copying code blindly won’t help you grow as a developer. It's unethical and can get you banned.
+- ✅ **Use for Learning** – These solutions are meant to aid your understanding of key concepts and logic.
+- 💡 **Think First** – Try solving on your own before referring to the solution for best results.
 
+---
 
+## ⚡ Programming Language
 
-####                     :name_badge:Owner
-####                      :sunglasses:**SAURABH UPADHAYAY**:sunglasses:
+- **C++17** – Efficient, fast, and perfect for competitive programming.
 
+---
+
+## 👤 Owner
+
+### 😎 **Saurabh Upadhayay**
+
+> Passionate competitive programmer & backend engineer, sharing knowledge to help others level up.
+
+---
+
+Thanks for visiting! ⭐ Feel free to fork, star, or contribute!
